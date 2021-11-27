@@ -1,0 +1,137 @@
+{
+  "name": "SPX ETF Token List",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "keywords": [
+    "spx",
+    "tokens",
+    "trusted"
+  ],
+  "logoURI": "https://wegate.eu/sites/default/files/etf-logo.jpg",
+  "timestamp": "2021-11-11T12:00:00+0000",
+  "tokens": [
+    {
+      "name": "AaveToken",
+      "chainId": 3,
+      "symbol": "AAVE",
+      "decimals": 18,
+      "address": "0xC7b0e19649D4484b720338F9376fdA9c8491A34b",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+    },
+    {
+      "name": "BnbToken",
+      "chainId": 3,
+      "symbol": "BNB",
+      "decimals": 18,
+      "address": "0x3DF7AFf4093dc73bDB86907E65f0e4a9d4F08cB1",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    },
+    {
+      "name": "BusdToken",
+      "chainId": 3,
+      "symbol": "BUSD",
+      "decimals": 18,
+      "address": "0x5D49fED40B2a282A9dd0baB7546A66f972211147",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+    },
+    {
+      "name": "CompToken",
+      "chainId": 3,
+      "symbol": "COMP",
+      "decimals": 18,
+      "address": "0xB07816Fc6e6929166517Cab0ccbbA047FE05FdFa",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png"
+    },
+    {
+      "name": "DaiToken",
+      "chainId": 3,
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0x504B4ae427F7d3605063247c6f71A9262fb64BF5",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+    },
+    {
+      "name": "HtToken",
+      "chainId": 3,
+      "symbol": "HT",
+      "decimals": 18,
+      "address": "0xC3d9a96A28B679ceB157bB97121d2a2A22F1E861",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+    },
+    {
+      "name": "MaticToken",
+      "chainId": 3,
+      "symbol": "MATIC",
+      "decimals": 18,
+      "address": "0xEb0B426Ed0eB813a9eA700bb1A0E0f3e4aFaeB48",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+    },
+    {
+      "name": "SolToken",
+      "chainId": 3,
+      "symbol": "SOL",
+      "decimals": 18,
+      "address": "0x8F058CAce57933B3698C526f63F43AfAf63934E7",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+    },
+    {
+      "name": "SushiToken",
+      "chainId": 3,
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "address": "0x9e29831F475a153e6d3Df7A016B64B3E61013A0B",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
+    },
+    {
+      "name": "TusdToken",
+      "chainId": 3,
+      "symbol": "TUSD",
+      "decimals": 18,
+      "address": "0x24cef259A1F3b77883552AE5A73A395BCf95B878",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png"
+    },
+    {
+      "name": "UniToken",
+      "chainId": 3,
+      "symbol": "UNI",
+      "decimals": 18,
+      "address": "0xC54BFA29e002f786660Cf848bDB03EF15EdF51a3",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+    },
+    {
+      "name": "UsdcToken",
+      "chainId": 3,
+      "symbol": "USDC",
+      "decimals": 18,
+      "address": "0xa0a9e0eeD9E1dB1fFE00a630273BF33019f230Dc",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+      "name": "UsdtToken",
+      "chainId": 3,
+      "symbol": "USDT",
+      "decimals": 18,
+      "address": "0xF52c335897425142d918232Df26d112DB47f7cD0",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+      "name": "WbtcToken",
+      "chainId": 3,
+      "symbol": "WBTC",
+      "decimals": 18,
+      "address": "0x57EbF3fCC349e6C823fb8b2ab8EAC14cF52f4350",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+    },
+    {
+      "name": "WethToken",
+      "chainId": 3,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x27431D568F34D63a7EE90aDF82BEF246c5e14Afe",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
+    }
+  ]
+}

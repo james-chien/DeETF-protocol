@@ -1,0 +1,137 @@
+{
+  "name": "SPX ETF Token List",
+  "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+  },
+  "keywords": [
+      "spx",
+      "tokens",
+      "trusted"
+  ],
+  "logoURI": "https://wegate.eu/sites/default/files/etf-logo.jpg",
+  "timestamp": "2021-11-11T12:00:00+0000",
+  "tokens": [
+      {
+          "name": "AaveToken",
+          "chainId": 80001,
+          "symbol": "AAVE",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+      },
+      {
+          "name": "BnbToken",
+          "chainId": 80001,
+          "symbol": "BNB",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+      },
+      {
+          "name": "BusdToken",
+          "chainId": 80001,
+          "symbol": "BUSD",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+      },
+      {
+          "name": "CompToken",
+          "chainId": 80001,
+          "symbol": "COMP",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png"
+      },
+      {
+          "name": "DaiToken",
+          "chainId": 80001,
+          "symbol": "DAI",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+      },
+      {
+          "name": "HtToken",
+          "chainId": 80001,
+          "symbol": "HT",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+      },
+      {
+          "name": "MaticToken",
+          "chainId": 80001,
+          "symbol": "MATIC",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+      },
+      {
+          "name": "SolToken",
+          "chainId": 80001,
+          "symbol": "SOL",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+      },
+      {
+          "name": "SushiToken",
+          "chainId": 80001,
+          "symbol": "SUSHI",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
+      },
+      {
+          "name": "TusdToken",
+          "chainId": 80001,
+          "symbol": "TUSD",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png"
+      },
+      {
+          "name": "UniToken",
+          "chainId": 80001,
+          "symbol": "UNI",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+      },
+      {
+          "name": "UsdcToken",
+          "chainId": 80001,
+          "symbol": "USDC",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+      },
+      {
+          "name": "UsdtToken",
+          "chainId": 80001,
+          "symbol": "USDT",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+      },
+      {
+          "name": "WbtcToken",
+          "chainId": 80001,
+          "symbol": "WBTC",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+      },
+      {
+          "name": "WethToken",
+          "chainId": 80001,
+          "symbol": "WETH",
+          "decimals": 18,
+          "address": "",
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
+      }
+  ]
+}
