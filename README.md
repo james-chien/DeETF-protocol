@@ -19,20 +19,22 @@ The DeETF protocol has 4 important features implemented on the smart contract. I
 
 The diagram shows below for explanation
 
-<img src="etf.jpeg" alt="ETF - How it works">
+<img src="etf.jpeg" alt="What it does">
 
 ## How we built it
 
-There are two smart contracts to interoperate with fund.
+There are two smart contracts to interoperate with funds.
 
 * FundFactory - Create fund pool.
 * FundPool - Manage fund for unit creation, redemption & holdings change.
 
-For fund movement, take into deep consideration for 3 points below.
+For fund movement, 3 more points to mention.
 
 * permission - only fund manager can change holdings
 * duplicate - use symbol to prevent multiple same tokens on the market
 * security - keep track of unit creation. If holdings change, PD can still redeem correct amounts for basket of tokens.
+
+<img src="etf-works.jpeg" alt="How we built it">
 
 ## Challenges we ran into
 
@@ -53,6 +55,7 @@ We list our next steps for this project.
 * Governance - users can vote to add more tokens into ETF
 * Staking - stake to share with protocol fees
 * Variety of ETFs - Inverse ETF, Derivative ETF & ETF Futures and Options
+* Improvements - add some minor features to provide better user experience
 
 ## Contact
 
